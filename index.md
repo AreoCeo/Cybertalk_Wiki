@@ -7,7 +7,6 @@ This Wiki will show you how to use CyberTalk and the code behind it!
 2. [How to use CyberTalk](How)
 3. [Features](Features)
 4. [Terms of Service](Terms)
-5. [FAQ](FAQ)
 
 # What is CyberTalk?
 
