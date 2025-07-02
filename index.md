@@ -3,8 +3,8 @@ Welcome to the CyberTalk wiki!
 This Wiki will show you how to use CyberTalk and the code behind it!
 ***
 # Table of contents
-1. [Code Explanation](Code-Explanation)
-2. [How to use CyberTalk](How-To-Use)
+1. [Code Explanation](Code)
+2. [How to use CyberTalk](How)
 3. [Features](Features)
 4. [Terms of Service](Terms)
 5. [FAQ](FAQ)
