@@ -67,4 +67,4 @@ Areo Co reserves the right to modify these Terms and Conditions at any time. Con
 <small>If you have any questions about these Terms and Conditions, please contact Areo Co.</small>
 
 ---
-[Go back to home](/index)
+[Go back to home](/Cybertalk_Wiki/)
