@@ -147,4 +147,4 @@ If you want to add features or modify the platform:
 
 ---
 That is the backend, and frontend of the code for CyberTalk
-[Go back to home](/index)
+[Go back to home](/Cybertalk_Wiki/)
