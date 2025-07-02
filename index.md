@@ -20,4 +20,3 @@ To access **CyberTalk**, simply visit:
 [https://cybertalk-p12b.onrender.com/](https://cybertalk-p12b.onrender.com/)
 
 Log in or register to start chatting!
-[Go back to home](/index)
