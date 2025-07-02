@@ -177,4 +177,4 @@ Your username and profile picture are always visible on the sidebar.
 ---
 
 Enjoy chatting securely and efficiently with CyberTalk!
-[Go back to home](/index)
+[Go back to home](/Cybertalk_Wiki/)
