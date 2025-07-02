@@ -68,4 +68,4 @@ Welcome to CyberTalk! Here’s a straightforward look at what CyberTalk offers t
 ---
 
 CyberTalk is focused on providing a secure, flexible, and user-friendly group chat experience. Happy chatting!
-[Go back to home](/index)
+[Go back to home](/Cybertalk_Wiki/)
